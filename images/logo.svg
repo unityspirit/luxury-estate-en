@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none">
+  <rect width="120" height="120" rx="16" fill="#06040a"/>
+  <rect x="2" y="2" width="116" height="116" rx="14" stroke="#c9a84c" stroke-width="2" fill="none"/>
+  <!-- Building icon -->
+  <g transform="translate(30, 16)" fill="none" stroke="#c9a84c" stroke-width="2">
+    <rect x="10" y="10" width="40" height="45" rx="2"/>
+    <rect x="0" y="25" width="14" height="30" rx="2"/>
+    <rect x="46" y="25" width="14" height="30" rx="2"/>
+    <rect x="18" y="18" width="6" height="6" rx="1" fill="#c9a84c"/>
+    <rect x="28" y="18" width="6" height="6" rx="1" fill="#c9a84c"/>
+    <rect x="38" y="18" width="6" height="6" rx="1" fill="#c9a84c"/>
+    <rect x="18" y="28" width="6" height="6" rx="1" fill="#e8c97a"/>
+    <rect x="28" y="28" width="6" height="6" rx="1" fill="#e8c97a"/>
+    <rect x="38" y="28" width="6" height="6" rx="1" fill="#e8c97a"/>
+    <rect x="18" y="38" width="6" height="6" rx="1" fill="#c9a84c"/>
+    <rect x="28" y="38" width="6" height="6" rx="1" fill="#c9a84c"/>
+    <rect x="38" y="38" width="6" height="6" rx="1" fill="#c9a84c"/>
+    <rect x="26" y="46" width="10" height="9" rx="1" fill="#e8c97a"/>
+  </g>
+  <text x="60" y="86" text-anchor="middle" fill="#c9a84c" font-family="serif" font-size="9" font-weight="600" letter-spacing="2">LUXURY</text>
+  <text x="60" y="101" text-anchor="middle" fill="#e8c97a" font-family="serif" font-size="7.5" font-weight="400" letter-spacing="4">ESTATE</text>
+  <line x1="30" y1="90" x2="90" y2="90" stroke="#c9a84c" stroke-width="0.5" opacity="0.5"/>
+</svg>
