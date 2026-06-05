@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <defs>
+    <linearGradient id="gle" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#D4A94B"/>
+      <stop offset="100%" stop-color="#b8912f"/>
+    </linearGradient>
+  </defs>
+  <!-- Background circle -->
+  <circle cx="100" cy="100" r="90" fill="#1a1a2e"/>
+  <circle cx="100" cy="100" r="82" fill="none" stroke="url(#gle)" stroke-width="2"/>
+  <!-- Luxury mansion -->
+  <!-- Main building -->
+  <rect x="60" y="75" width="80" height="70" fill="none" stroke="url(#gle)" stroke-width="2.5" rx="2"/>
+  <!-- Roof / pediment -->
+  <polygon points="55,75 100,45 145,75" fill="none" stroke="url(#gle)" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Columns -->
+  <line x1="80" y1="95" x2="80" y2="145" stroke="url(#gle)" stroke-width="2" stroke-linecap="round"/>
+  <line x1="120" y1="95" x2="120" y2="145" stroke="url(#gle)" stroke-width="2" stroke-linecap="round"/>
+  <!-- Grand entrance door -->
+  <path d="M90,145 L90,115 Q100,108 110,115 L110,145" fill="none" stroke="url(#gle)" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Windows -->
+  <rect x="65" y="100" width="10" height="12" fill="url(#gle)" rx="1" opacity="0.7"/>
+  <rect x="125" y="100" width="10" height="12" fill="url(#gle)" rx="1" opacity="0.7"/>
+  <!-- Chimney -->
+  <rect x="70" y="55" width="8" height="20" fill="none" stroke="url(#gle)" stroke-width="1.5"/>
+  <!-- Key (real estate) -->
+  <circle cx="50" cy="155" r="6" fill="none" stroke="url(#gle)" stroke-width="1.5"/>
+  <line x1="56" y1="155" x2="72" y2="155" stroke="url(#gle)" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="68" y1="155" x2="68" y2="160" stroke="url(#gle)" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="72" y1="155" x2="72" y2="160" stroke="url(#gle)" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Diamond luxury accent -->
+  <polygon points="100,55 106,62 100,69 94,62" fill="url(#gle)" opacity="0.8"/>
+</svg>
